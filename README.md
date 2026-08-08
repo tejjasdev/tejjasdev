@@ -26,8 +26,6 @@ Shipping a **Notes API** — FastAPI + PostgreSQL, JWT auth, full CRUD — end-t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=tejjasdev&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Tejas's GitHub stats" width="450" />
-
 [![Website](https://img.shields.io/badge/develx.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://develx.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)
 
