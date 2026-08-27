@@ -21,11 +21,30 @@
 
 ## Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="120"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" alt="Languages" /></td>
+</tr>
+<tr>
+<td valign="top"><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" /></td>
+</tr>
+<tr>
+<td valign="top"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" /></td>
+</tr>
+<tr>
+<td valign="top"><b>Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database" /></td>
+</tr>
+<tr>
+<td valign="top"><b>Tools & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws" alt="Tools and Cloud" /></td>
+</tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,postgres,mysql,git,github,docker,vercel,aws" alt="Tech stack icons" />
-
-</div>
+**Also working with:** LLM APIs · RAG Pipelines · AI Agent Workflows
 
 <br/>
 
