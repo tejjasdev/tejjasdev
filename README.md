@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi, I'm Tejas 👋
+# Hi, I'm Tejas Chavan 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Engineering+Student;AI+%2F+LLM+Integration;Founder+%40+DevelX" alt="Typing SVG" />
+**Full-Stack Developer** · **AI / LLM Integration** · Computer Engineering Student
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=550&lines=Building+full-stack+web+apps;Integrating+AI+%2F+LLM+into+products;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
 </div>
 
@@ -12,70 +14,59 @@
 
 - 🎓 Computer Engineering student based in Ahilyanagar, Maharashtra, India
 - 💻 Focused on **full-stack development** — frontend, backend, databases and REST APIs
-- 🤖 Building hands-on experience with **AI / LLM integration**, RAG and automation
+- 🤖 Hands-on experience with **AI / LLM integration**, RAG pipelines and automation
 - 🐍 Comfortable with Python for scripting, web scraping and backend tooling
-- 🛠️ Founder of **[DevelX](https://develx.dev)** — my independent dev studio, where I design and ship projects
-- 📫 Open to internship and full-time software engineering opportunities
+- 📫 Open to **internship and full-time Software Engineering opportunities**
 
 <br/>
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="120"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" alt="Languages" /></td>
-</tr>
-<tr>
-<td valign="top"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" /></td>
-</tr>
-<tr>
-<td valign="top"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" /></td>
-</tr>
-<tr>
-<td valign="top"><b>Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database" /></td>
-</tr>
-<tr>
-<td valign="top"><b>Tools & Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws" alt="Tools and Cloud" /></td>
-</tr>
-</table>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" alt="Languages" />
 
-**Also working with:** LLM APIs · RAG Pipelines · AI Agent Workflows
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
+
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" />
+
+**Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database" />
+
+**Tools & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws" alt="Tools and Cloud" />
+
+*Also working with: LLM APIs · RAG Pipelines · AI Agent Workflows*
 
 <br/>
 
 ## Featured Projects
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### 🚀 Project One
-
 **[Live Demo](#)** · **[Repository](#)**
 
 One-line summary of the problem it solves and the core feature you built — auth, dashboard, API, etc.
 
 `React` `Next.js` `Node.js` `PostgreSQL`
 
-</td>
-<td width="50%" valign="top">
-
 ### ⚡ Project Two
-
 **[Live Demo](#)** · **[Repository](#)**
 
 One-line summary covering the main technical work — e.g. an AI/RAG feature, automation pipeline, or backend service.
 
 `Python` `FastAPI` `AI / LLM` `Docker`
 
-</td>
-</tr>
-</table>
+<br/>
+
+## Currently Building
+
+🚀 **[DevelX](https://develx.dev)** — an independent dev studio I started, building websites, SaaS products, and AI/automation systems for small businesses.
 
 <br/>
 
@@ -83,8 +74,8 @@ One-line summary covering the main technical work — e.g. an AI/RAG feature, au
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejjasdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=tejjasdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejjasdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=tejjasdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
 
 </div>
 
