@@ -22,25 +22,9 @@
 
 ## Tech Stack
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" alt="Languages" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" />
-
-**Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" />
-
-**Database**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database" />
-
-**Tools & Cloud**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws" alt="Tools and Cloud" />
+<div align="center">
+<img src="./assets/techstack.svg" alt="Tech Stack" width="100%"/>
+</div>
 
 *Also working with: LLM APIs · RAG Pipelines · AI Agent Workflows*
 
