@@ -22,23 +22,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,postgres,mongodb,aws,docker,git&perline=6" />
-<br/>
-<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" height="28"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,postgres,mongodb,aws,docker,git,linux" />
 
 </div>
-
-<br/>
-
-## Featured Project
-
-<!-- Swap this with your real project — keep the same format -->
-
-**Project Name** · [Live Demo](#) · [Repository](#)
-
-One or two lines on the problem it solves and what you built — auth, core feature, API, etc.
-
-`Tech` `Tech` `Tech` `Tech`
 
 <br/>
 
@@ -46,9 +32,9 @@ One or two lines on the problem it solves and what you built — auth, core feat
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://develx.dev)
-[![Email](https://img.shields.io/badge/Email-58A6FF?style=flat-square&logo=gmail&logoColor=white)](mailto:hey.tejjas@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/tejjasdev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=googlechrome&logoColor=58A6FF)](https://develx.dev)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:hey.tejjas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/tejjasdev)
 
 </div>
 
