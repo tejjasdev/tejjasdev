@@ -1,107 +1,59 @@
 <div align="center">
 
-# Hi, I'm Tejas 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=170&section=header&text=Hi%2C%20I%27m%20Tejas%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Computer+Engineering+Student;AI+%2F+LLM+Integration;Founder+%40+DevelX" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI+%2F+LLM+Integration;Founder+%40+DevelX;Open+to+Full-Time+Opportunities" alt="Typing SVG" />
 
 </div>
 
 <br/>
 
-## About Me
+## About
 
-- 🎓 Computer Engineering student based in Ahilyanagar, Maharashtra, India
-- 💻 Focused on **full-stack development** — frontend, backend, databases and REST APIs
-- 🤖 Building hands-on experience with **AI / LLM integration**, RAG and automation
-- 🐍 Comfortable with Python for scripting, web scraping and backend tooling
-- 🛠️ Founder of **[DevelX](https://develx.dev)** — my independent dev studio, where I design and ship projects
-- 📫 Open to internship and full-time software engineering opportunities
+- 🎓 Computer Engineering (3rd Year) · Maharashtra, India
+- 💻 Full-stack developer — frontend, backend, databases, REST APIs
+- 🤖 Building hands-on experience with AI / LLM integration and RAG pipelines
+- 🛠️ Founder of **[DevelX](https://develx.dev)** — independent dev studio, freelance web & AI projects
+- 📫 Open to full-time SDE roles and freelance/contract work
 
 <br/>
 
 ## Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="120"><b>Languages</b></td>
-<td><img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" alt="Languages" /></td>
-</tr>
-<tr>
-<td valign="top"><b>Frontend</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" /></td>
-</tr>
-<tr>
-<td valign="top"><b>Backend</b></td>
-<td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend" /></td>
-</tr>
-<tr>
-<td valign="top"><b>Database</b></td>
-<td><img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Database" /></td>
-</tr>
-<tr>
-<td valign="top"><b>Tools & Cloud</b></td>
-<td><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,aws" alt="Tools and Cloud" /></td>
-</tr>
-</table>
-
-**Also working with:** LLM APIs · RAG Pipelines · AI Agent Workflows
-
-<br/>
-
-## Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Project One
-
-**[Live Demo](#)** · **[Repository](#)**
-
-One-line summary of the problem it solves and the core feature you built — auth, dashboard, API, etc.
-
-`React` `Next.js` `Node.js` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Project Two
-
-**[Live Demo](#)** · **[Repository](#)**
-
-One-line summary covering the main technical work — e.g. an AI/RAG feature, automation pipeline, or backend service.
-
-`Python` `FastAPI` `AI / LLM` `Docker`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejjasdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=tejjasdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,py,postgres,mongodb,aws,docker,git&perline=6" />
+<br/>
+<img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white" height="28"/>
 
 </div>
 
 <br/>
 
-## Let's Connect
+## Featured Project
+
+<!-- Swap this with your real project — keep the same format -->
+
+**Project Name** · [Live Demo](#) · [Repository](#)
+
+One or two lines on the problem it solves and what you built — auth, core feature, API, etc.
+
+`Tech` `Tech` `Tech` `Tech`
+
+<br/>
+
+## Connect
 
 <div align="center">
 
-<a href="https://develx.dev"><img src="https://img.shields.io/badge/Portfolio-develx.dev-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:hey.tejjas@gmail.com"><img src="https://img.shields.io/badge/Email-hey.tejjas%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/tejjasdev"><img src="https://img.shields.io/badge/GitHub-tejjasdev-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://develx.dev)
+[![Email](https://img.shields.io/badge/Email-58A6FF?style=flat-square&logo=gmail&logoColor=white)](mailto:hey.tejjas@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-58A6FF?style=flat-square&logo=github&logoColor=white)](https://github.com/tejjasdev)
 
 </div>
 
 <br/>
 
 <div align="center">
-<sub>Build · Learn · Improve</sub>
+<sub>Freelancing via DevelX · Open to full-time opportunities</sub>
 </div>
